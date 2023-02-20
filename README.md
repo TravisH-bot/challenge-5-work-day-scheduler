@@ -3,16 +3,16 @@
 ## Description
 
 - What was your motivation?
-The motivation behind the project was to use dayjs() in order to format and stylize a work day scheduler as well as using local storage to save events.
+The motivation behind the project was to use Day.js in order to format and stylize a work day scheduler as well as using local storage to save events.
 
 - Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-The project was built to practice using jQuery, JavaScript, and dayjs() to make a functional schedule that can save events typed into the hour blocks by the press of a save button.
+The project was built to practice using jQuery, JavaScript, and Day.js to make a functional schedule that can save events typed into the hour blocks by the press of a save button.
 
 - What problem does it solve?
 This project solves the problem of making a functional, stylized, and responsive system that indicates the current time block and savable events.
 
 - What did you learn?
-From this assignment, I have learned the different ways in which dayjs() functions, how it can be used to display dates and time that change in real time as opposed to hard coding dates. I also learned how to target specific ids in a loop and how to compare them based on the current hour. In addition, the concepts of key/value pairs and loops have become more clear and easier to understand as well as the simplified way that jQuery operates.
+From this assignment, I have learned the different ways in which Day.js functions, how it can be used to display dates and time that change in real time as opposed to hard coding dates. I also learned how to target specific ids in a loop and how to compare them based on the current hour. In addition, the concepts of key/value pairs and loops have become more clear and easier to understand as well as the simplified way that jQuery operates.
 
 
 ## Usage
