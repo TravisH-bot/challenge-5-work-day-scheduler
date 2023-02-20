@@ -20,4 +20,4 @@ From this assignment, I have learned the different ways in which dayjs() functio
 The planner is accessed via a web browser and will display the current day of the week, month, and day number. The hour block in red represents the current hour while the blocks in gray represent the past hours and the blocks in green represent the future hours. When text is entered into the text area and the save button is pressed, the event is saved, even upon page refresh.
 
 
-[Work Day Scheduler.webm](https://user-images.githubusercontent.com/79767820/220210309-9d32c7f1-9a83-491c-bc80-d0363f014e79.webm)
+[Work Day Scheduler.webm](https://user-images.githubusercontent.com/79767820/220210309-9d32c7f1-9a83-491c-bc80-d0363f014e79.gif)
