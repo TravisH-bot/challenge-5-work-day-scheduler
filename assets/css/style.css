@@ -1,6 +1,9 @@
+@import url("https://fonts.googleapis.com/css2?family=Mynerve&display=swap");
+
 body {
-  font-family: "Open Sans", sans-serif;
-  font-size: 16px;
+  font-family: "Mynerve", cursive;
+  font-size: 18px;
+  font-weight: bolder;
 }
 
 textarea {
@@ -54,6 +57,6 @@ textarea {
 }
 
 .saveBtn i:hover {
-  font-size: 20px;
+  font-size: 25px;
   transition: all 0.3s ease-in-out;
 }

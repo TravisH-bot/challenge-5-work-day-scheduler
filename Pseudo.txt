@@ -1,5 +1,5 @@
 Need to add the current date to the top of the scheduler. ✔️
-I need to dynamically change the color of the time blocks based on past, present, and future. 
+I need to dynamically change the color of the time blocks based on past, present, and future. ✔️
 -If time < currentHour, apply the class past.
 -If time === currentHour, apply the class present.
 -If time > currentHour, apply the class future. 
@@ -10,8 +10,32 @@ Need a function to apply the classes to the different time blocks based on a com
 https://api.jquery.com/each/
 https://jqueryui.com/addClass/
 
-NEEDED TO CHANGE THE HOURS IN THE HTML TO 24 HOUR DISTINCTION INSTEAD OF 12!!!!!!!!!!!!!
+NEEDED TO CHANGE THE HOURS IN THE HTML TO 24 HOUR DISTINCTION INSTEAD OF 12!
 
 When console logging the current time, noticed it was in 24 hour distinction. Tried to change it to display in 12 hours rather than simply changing the hour id in the HTML to 24 🤦‍♂️
 
 My thought process was to try and use a regular js forloop rather than a jquery loop. After researching the jquery loop, it seemed much easier. 
+
+https://stackoverflow.com/questions/70742125/store-multiple-form-input-values-in-local-storage-in-javascript-in-the-form-of-a
+
+https://stackoverflow.com/questions/40791207/setting-and-getting-localstorage-with-jquery
+
+The preferred approach is:
+
+localStorage.setItem(key,value); to set
+
+localStorage.getItem(key); to get.
+
+key and value must be strings.
+
+Local storage using a button - https://www.delftstack.com/howto/jquery/jquery-local-storage/
+
+The .val() method is primarily used to get the values of form elements such as input, select and textarea. When called on an empty collection, it returns undefined.
+
+.text() cannot be used on input or textarea elements.
+
+https://medium.com/iecse-hashtag/day-5-refresh-and-poof-gone-50651ddf3fc
+
+https://meetanshi.com/blog/reload-current-page-without-losing-any-form-data-in-javascript/
+
+https://javascript.info/localstorage
