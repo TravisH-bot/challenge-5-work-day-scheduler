@@ -6,7 +6,7 @@
 The motivation behind the project was to use dayjs() in order to format and stylize a work day scheduler as well as using local storage to save events.
 
 - Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-The project was built to practice using jQuery, JavaScript, and dayjs() to make a functiona schedule that can save events typed into the hour blocks by the press of a save button.
+The project was built to practice using jQuery, JavaScript, and dayjs() to make a functional schedule that can save events typed into the hour blocks by the press of a save button.
 
 - What problem does it solve?
 This project solves the problem of making a functional, stylized, and responsive system that indicates the current time block and savable events.
@@ -21,4 +21,4 @@ The planner is accessed via a web browser and will display the current day of th
 
 
 
-![Work Day Scheduler](https://user-images.githubusercontent.com/79767820/220210445-4e22cb27-8168-45a7-9e8a-a133270a5e97.gif)
+![Work Day Scheduler (1)](https://user-images.githubusercontent.com/79767820/220210646-8fdb6825-a958-4e0c-8bca-f0c3cfd44ba2.gif)
